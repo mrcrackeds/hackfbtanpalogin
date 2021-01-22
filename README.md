@@ -19,3 +19,4 @@ cd hackfbtanpalogin
 
 mv hackfb.py /sdcard
 
+mv hackfbgratis.py /sdcard

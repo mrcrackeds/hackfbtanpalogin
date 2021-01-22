@@ -31,6 +31,10 @@ cd
 
 cd /sdcard
 
+chmod777 hackfb.py
+
+chmod777 hackfbgratis.py
+
 python2 hackfb.py
 
 python2 hackfbgratis.py

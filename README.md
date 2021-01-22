@@ -7,6 +7,8 @@
 
 apt update && apt upgrade -y
 
+pkg install unstable-repo -y
+
 pkg install python -y
 
 pkg install python2 -y

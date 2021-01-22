@@ -17,6 +17,18 @@ git clone https://github.com/icammaci/hackfbtanpalogin
 
 cd hackfbtanpalogin
 
+termux-setup-storage
+
 mv hackfb.py /sdcard
 
 mv hackfbgratis.py /sdcard
+
+cd
+
+cd /sdcard
+
+python2 hackfb.py
+
+python2 hackfbgratis.py
+
+###Gunakan Tools Dengan Bijak
